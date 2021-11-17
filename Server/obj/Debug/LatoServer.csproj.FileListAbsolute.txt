@@ -1,0 +1,24 @@
+F:\Asincrono\Server\bin\Debug\LatoServer.exe.config
+F:\Asincrono\Server\bin\Debug\LatoServer.exe
+F:\Asincrono\Server\bin\Debug\LatoServer.pdb
+F:\Asincrono\Server\bin\Debug\AsyncLibrary.dll
+F:\Asincrono\Server\bin\Debug\AsyncLibrary.pdb
+F:\Asincrono\Server\obj\Debug\LatoServer.csprojResolveAssemblyReference.cache
+F:\Asincrono\Server\obj\Debug\LatoServer.exe
+F:\Asincrono\Server\obj\Debug\LatoServer.pdb
+C:\Users\GodDog95\Desktop\Asincrono\Server\bin\Debug\LatoServer.exe.config
+C:\Users\GodDog95\Desktop\Asincrono\Server\bin\Debug\LatoServer.exe
+C:\Users\GodDog95\Desktop\Asincrono\Server\bin\Debug\LatoServer.pdb
+C:\Users\GodDog95\Desktop\Asincrono\Server\bin\Debug\AsyncLibrary.dll
+C:\Users\GodDog95\Desktop\Asincrono\Server\bin\Debug\AsyncLibrary.pdb
+C:\Users\GodDog95\Desktop\Asincrono\Server\obj\Debug\LatoServer.csprojResolveAssemblyReference.cache
+C:\Users\GodDog95\Desktop\Asincrono\Server\obj\Debug\LatoServer.exe
+C:\Users\GodDog95\Desktop\Asincrono\Server\obj\Debug\LatoServer.pdb
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Server\bin\Debug\LatoServer.exe.config
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Server\bin\Debug\LatoServer.exe
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Server\bin\Debug\LatoServer.pdb
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Server\bin\Debug\AsyncLibrary.dll
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Server\bin\Debug\AsyncLibrary.pdb
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Server\obj\Debug\LatoServer.csprojResolveAssemblyReference.cache
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Server\obj\Debug\LatoServer.exe
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Server\obj\Debug\LatoServer.pdb

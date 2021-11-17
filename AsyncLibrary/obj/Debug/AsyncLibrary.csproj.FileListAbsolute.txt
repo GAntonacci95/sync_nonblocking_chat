@@ -1,0 +1,15 @@
+F:\Asincrono\AsyncLibrary\bin\Debug\AsyncLibrary.dll
+F:\Asincrono\AsyncLibrary\bin\Debug\AsyncLibrary.pdb
+F:\Asincrono\AsyncLibrary\obj\Debug\AsyncLibrary.dll
+F:\Asincrono\AsyncLibrary\obj\Debug\AsyncLibrary.pdb
+F:\Asincrono\AsyncLibrary\obj\Debug\AsyncLibrary.csprojResolveAssemblyReference.cache
+C:\Users\GodDog95\Desktop\Asincrono\AsyncLibrary\bin\Debug\AsyncLibrary.dll
+C:\Users\GodDog95\Desktop\Asincrono\AsyncLibrary\bin\Debug\AsyncLibrary.pdb
+C:\Users\GodDog95\Desktop\Asincrono\AsyncLibrary\obj\Debug\AsyncLibrary.dll
+C:\Users\GodDog95\Desktop\Asincrono\AsyncLibrary\obj\Debug\AsyncLibrary.pdb
+C:\Users\GodDog95\Desktop\Asincrono\AsyncLibrary\obj\Debug\AsyncLibrary.csprojResolveAssemblyReference.cache
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\AsyncLibrary\bin\Debug\AsyncLibrary.dll
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\AsyncLibrary\bin\Debug\AsyncLibrary.pdb
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\AsyncLibrary\obj\Debug\AsyncLibrary.dll
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\AsyncLibrary\obj\Debug\AsyncLibrary.pdb
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\AsyncLibrary\obj\Debug\AsyncLibrary.csprojResolveAssemblyReference.cache

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatoServer", "Server\LatoServer.csproj", "{51EDED78-17D2-4AC2-BB0E-C481B5F0F692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncLibrary", "AsyncLibrary\AsyncLibrary.csproj", "{AE3098ED-A927-4AF8-BF62-D2DC3ED93AA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatoClient", "Client\LatoClient.csproj", "{8C6E4438-B42F-4C36-86E9-9D3D8EB568E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51EDED78-17D2-4AC2-BB0E-C481B5F0F692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EDED78-17D2-4AC2-BB0E-C481B5F0F692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EDED78-17D2-4AC2-BB0E-C481B5F0F692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EDED78-17D2-4AC2-BB0E-C481B5F0F692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE3098ED-A927-4AF8-BF62-D2DC3ED93AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3098ED-A927-4AF8-BF62-D2DC3ED93AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3098ED-A927-4AF8-BF62-D2DC3ED93AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3098ED-A927-4AF8-BF62-D2DC3ED93AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6E4438-B42F-4C36-86E9-9D3D8EB568E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6E4438-B42F-4C36-86E9-9D3D8EB568E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6E4438-B42F-4C36-86E9-9D3D8EB568E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6E4438-B42F-4C36-86E9-9D3D8EB568E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

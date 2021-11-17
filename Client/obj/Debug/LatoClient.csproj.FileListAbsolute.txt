@@ -1,0 +1,55 @@
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\bin\Debug\Asincrono.exe.config
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\bin\Debug\Asincrono.exe
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\bin\Debug\Asincrono.pdb
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\bin\Debug\AsyncLibrary.dll
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\bin\Debug\AsyncLibrary.pdb
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\obj\Debug\LatoClient.csprojResolveAssemblyReference.cache
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\obj\Debug\LatoClient.Form1.resources
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\obj\Debug\Asincrono.Properties.Resources.resources
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\obj\Debug\LatoClient.csproj.GenerateResource.Cache
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\obj\Debug\Asincrono.exe
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\obj\Debug\Asincrono.pdb
+F:\Asincrono\Asincrono\bin\Debug\LatoClient.exe.config
+F:\Asincrono\Asincrono\bin\Debug\LatoClient.exe
+F:\Asincrono\Asincrono\bin\Debug\LatoClient.pdb
+F:\Asincrono\Asincrono\bin\Debug\AsyncLibrary.dll
+F:\Asincrono\Asincrono\bin\Debug\AsyncLibrary.pdb
+F:\Asincrono\Asincrono\obj\Debug\LatoClient.csprojResolveAssemblyReference.cache
+F:\Asincrono\Asincrono\obj\Debug\LatoClient.Form1.resources
+F:\Asincrono\Asincrono\obj\Debug\LatoClient.Properties.Resources.resources
+F:\Asincrono\Asincrono\obj\Debug\LatoClient.csproj.GenerateResource.Cache
+F:\Asincrono\Asincrono\obj\Debug\LatoClient.exe
+F:\Asincrono\Asincrono\obj\Debug\LatoClient.pdb
+F:\Asincrono\Client\bin\Debug\LatoClient.exe.config
+F:\Asincrono\Client\bin\Debug\LatoClient.exe
+F:\Asincrono\Client\bin\Debug\LatoClient.pdb
+F:\Asincrono\Client\bin\Debug\AsyncLibrary.dll
+F:\Asincrono\Client\bin\Debug\AsyncLibrary.pdb
+F:\Asincrono\Client\obj\Debug\LatoClient.csprojResolveAssemblyReference.cache
+F:\Asincrono\Client\obj\Debug\LatoClient.Form1.resources
+F:\Asincrono\Client\obj\Debug\LatoClient.Properties.Resources.resources
+F:\Asincrono\Client\obj\Debug\LatoClient.csproj.GenerateResource.Cache
+F:\Asincrono\Client\obj\Debug\LatoClient.exe
+F:\Asincrono\Client\obj\Debug\LatoClient.pdb
+C:\Users\GodDog95\Desktop\Asincrono\Client\bin\Debug\LatoClient.exe.config
+C:\Users\GodDog95\Desktop\Asincrono\Client\bin\Debug\LatoClient.exe
+C:\Users\GodDog95\Desktop\Asincrono\Client\bin\Debug\LatoClient.pdb
+C:\Users\GodDog95\Desktop\Asincrono\Client\bin\Debug\AsyncLibrary.dll
+C:\Users\GodDog95\Desktop\Asincrono\Client\bin\Debug\AsyncLibrary.pdb
+C:\Users\GodDog95\Desktop\Asincrono\Client\obj\Debug\LatoClient.csprojResolveAssemblyReference.cache
+C:\Users\GodDog95\Desktop\Asincrono\Client\obj\Debug\LatoClient.Form1.resources
+C:\Users\GodDog95\Desktop\Asincrono\Client\obj\Debug\LatoClient.Properties.Resources.resources
+C:\Users\GodDog95\Desktop\Asincrono\Client\obj\Debug\LatoClient.csproj.GenerateResource.Cache
+C:\Users\GodDog95\Desktop\Asincrono\Client\obj\Debug\LatoClient.exe
+C:\Users\GodDog95\Desktop\Asincrono\Client\obj\Debug\LatoClient.pdb
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Client\bin\Debug\LatoClient.exe.config
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Client\bin\Debug\LatoClient.exe
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Client\bin\Debug\LatoClient.pdb
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Client\bin\Debug\AsyncLibrary.dll
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Client\bin\Debug\AsyncLibrary.pdb
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Client\obj\Debug\LatoClient.csprojResolveAssemblyReference.cache
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Client\obj\Debug\LatoClient.Form1.resources
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Client\obj\Debug\LatoClient.Properties.Resources.resources
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Client\obj\Debug\LatoClient.csproj.GenerateResource.Cache
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Client\obj\Debug\LatoClient.exe
+K:\Programmazione\Visual Studio 2010\C#\Asincrono\Client\obj\Debug\LatoClient.pdb

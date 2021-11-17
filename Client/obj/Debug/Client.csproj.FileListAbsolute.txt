@@ -1,0 +1,10 @@
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\obj\Debug\Asincrono.Properties.Resources.resources
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\bin\Debug\Asincrono.exe
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\bin\Debug\Asincrono.pdb
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\bin\Debug\AsyncLibrary.dll
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\bin\Debug\AsyncLibrary.pdb
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\obj\Debug\Asincrono.exe
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\obj\Debug\Asincrono.pdb
+C:\Users\GodDog95\Desktop\Asincrono\Asincrono\bin\Debug\Asincrono.exe.config
